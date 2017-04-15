@@ -106,7 +106,8 @@ font:
   # Fallback to `global` font settings.
   posts:
     external: true
-    family:
+    family: Merriweather
+    size: 14px
 
   # Font settings for Logo
   # Fallback to `global` font settings.
