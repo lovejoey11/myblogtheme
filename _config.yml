@@ -470,13 +470,13 @@ exturl: false
 #! ---------------------------------------------------------------
 
 # Motion
-use_motion: false
+use_motion: true
 
 # Fancybox
 fancybox: true
 
 # Canvas-nest
-canvas_nest: true
+canvas_nest: false
 
 # Script Vendors.
 # Set a CDN address for the vendor you want to customize.
