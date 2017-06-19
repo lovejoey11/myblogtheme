@@ -120,7 +120,7 @@ font:
   # Font settings for <code> and code blocks.
   codes:
     external: true
-    family: BioRhyme
+    family: Source Sans Pro 
     size: 12px
 
 
@@ -270,7 +270,7 @@ custom_logo:
 # Available value:
 #    normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: night eighties
+highlight_theme: normal 
 
 
 # ---------------------------------------------------------------
