@@ -20,7 +20,7 @@ since: 2017
 authoricon: heart
 
 # Footer `powered-by` and `theme-info` copyright
-copyright: false
+copyright: true
 
 
 # Canonical, set a canonical link tag in your hexo, you could use it for your SEO of blog.
@@ -136,8 +136,8 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   Github: https://github.com/lovejoey11
-  Linkedin: https://www.linkedin.com/in/yangkailyu1191
-  Twitter: https://twitter.com/Justin_lv
+  # Linkedin: https://www.linkedin.com/in/yangkailyu1191
+  # Twitter: https://twitter.com/Justin_lv
 
 # Social Links Icons
 # Icon Mapping:
